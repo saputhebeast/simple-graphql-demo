@@ -1,1 +1,1 @@
-# simple-graphql-demo
+# Simple GraphQL Demo
